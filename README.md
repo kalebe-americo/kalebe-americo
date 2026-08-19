@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00FF41&text_color=00CC33&ring_color=00FF41" width="48%" />
+>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=005500&sideNums=00FF41&currStreakNum=00FF41" width="48%" />
 
