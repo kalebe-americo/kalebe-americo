@@ -10,7 +10,7 @@
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=00ff41\&style=flat-square\&label=VISITORS)
+
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square)
 
 </div>
