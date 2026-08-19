@@ -22,10 +22,10 @@
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║  > INITIALIZING PROFILE...                               ║
-║  > LOADING OPERATOR: Kalebe Americo / @SEU_USUARIO       ║
+║  > LOADING OPERATOR: Kalebe Americo / @kalebe americo    ║
 ║  > ROLE: Software Engineering Student · Developer        ║
 ║  > LOCATION: Brazil                                      ║
-║  > MISSION: Learn. Build. Break. Understand.              ║
+║  > MISSION: Learn. Build. Break. Understand.             ║
 ║  > STATUS: [████████████████████] 100% READY             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
