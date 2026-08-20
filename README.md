@@ -59,19 +59,7 @@
 
 ---
 
-## `⬡ SIGNAL`
 
-<div align="center">
-
->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=005500&sideNums=00FF41&currStreakNum=00FF41" width="48%" />
-
-</div>
-
----
-
-<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
