@@ -1,4 +1,5 @@
-````markdown
+# README — Kalebe Americo
+
 <!-- Kalebe Americo — Futuristic GitHub Profile README -->
 
 <div align="center">
@@ -11,6 +12,7 @@
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=flat-square)
 
+
 </div>
 
 ---
@@ -19,14 +21,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║  > INITIALIZING PROFILE...                               ║
-║  > LOADING OPERATOR: Kalebe Americo / @kalebeamerico     ║
-║  > ROLE: Software Engineering Student · Developer        ║
-║  > LOCATION: Brazil                                      ║
-║  > MISSION: Learn. Build. Break. Understand.             ║
-║  > STATUS: [████████████████████] 100% READY             ║
+║ > INITIALIZING PROFILE... ║
+║ > LOADING OPERATOR: Kalebe Americo / @kalebe americo ║
+║ > ROLE: Software Engineering Student · Developer ║
+║ > LOCATION: Brazil ║
+║ > MISSION: Learn. Build. Break. Understand. ║
+║ > STATUS: [████████████████████] 100% READY ║
 ╚══════════════════════════════════════════════════════════╝
-````
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -61,25 +63,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalebeamerico&hide_border=true&background=050B14&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=0088CC&dates=003B5C&sideNums=00BFFF&currStreakNum=00BFFF" width="48%"/>
+>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=005500&sideNums=00FF41&currStreakNum=00FF41" width="48%" />
 
 </div>
 
 ---
-
-## `⬡ SYSTEM STATUS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalebeamerico&show_icons=true&hide_border=true&bg_color=050B14&title_color=00BFFF&text_color=8CCFFF&icon_color=0088CC&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebeamerico&layout=compact&hide_border=true&bg_color=050B14&title_color=00BFFF&text_color=8CCFFF" width="48%"/>
-
-</div>
-
----
-
-## `⬡ CONTRIBUTIONS`
 
 <div align="center">
 
@@ -89,69 +79,14 @@
 
 ---
 
-## `⬡ ABOUT ME`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  > Software Engineering Student                         ║
-║  > Python Developer                                     ║
-║  > Cyber Security Enthusiast                            ║
-║  > Learning Linux & Networking                          ║
-║  > Building projects and improving every day            ║
-║                                                          ║
-║  [ SYSTEM ]                                              ║
-║  ├── Learn                                               ║
-║  ├── Build                                               ║
-║  ├── Test                                                ║
-║  ├── Break                                               ║
-║  └── Understand                                          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## `⬡ CURRENT OBJECTIVES`
-
-```text
-[████████████████████░░] 90%  Python
-[███████████████░░░░░░░] 75%  Cyber Security
-[████████████░░░░░░░░░░] 60%  Linux
-[███████████░░░░░░░░░░░] 55%  Networking
-[█████████░░░░░░░░░░░░░] 45%  Java
-[████████░░░░░░░░░░░░░░] 40%  Web Development
-```
-
----
-
-## `⬡ CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/kalebeamerico">
-<img src="https://img.shields.io/badge/GITHUB-050B14?style=for-the-badge&logo=github&logoColor=00BFFF"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kalebeamerico&color=00BFFF&style=flat-square&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
 <div align="center">
 
 ```text
 ◈ ─────────────────────────────────────────── ◈
-          "Keep learning.
-           Keep building.
-           Keep improving."
+"Keep learning.
+Keep building.
+Keep improving."
 ◈ ─────────────────────────────────────────── ◈
 ```
 
-### `> SYSTEM ONLINE // KEEP BUILDING_`
-
 </div>
-```
