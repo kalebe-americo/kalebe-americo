@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=KALEBE%20AMERICO&fontSize=40&color=0:140505,100:5C0000&fontColor=FF0000&stroke=FF0000&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=KALEBE%20AMERICO&fontSize=40&color=0:FF0000,100:FF0000&fontColor=FF0000&stroke=FF0000&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+Developer;Cyber+Security+Enthusiast;%5B+ALWAYS+LEARNING.+ALWAYS+BUILDING.+%5D)](https://git.io/typing-svg)
 
